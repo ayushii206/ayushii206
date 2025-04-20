@@ -32,7 +32,7 @@
 
 ### 📬 Let's Connect:
 - 📧 [Email](mailto:ayushiarora206@gmail.com)
-- 🌐 [LinkedIn (optional, if you want to add)]
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ayushiarora02/)
 - 🌟 Open to collaborations in Robotics | ROS2 | AI
 
 ---
